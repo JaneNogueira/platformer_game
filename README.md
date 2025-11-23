@@ -121,13 +121,3 @@ pgzrun main.py
 
 Este README reflete diretamente o **GDD completo** criado para este projeto, incluindo lógica, arquitetura e mecânicas utilizadas.
 
----
-
-## 📜 Licença
-
-Licenciado sob MIT.
-Sinta-se livre para estudar, modificar e distribuir este jogo.
-
-
-Quer adicionar algo?
-
